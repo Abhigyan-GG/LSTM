@@ -1,0 +1,20 @@
+{
+    "Train_MSE": 1.526369650217752,
+    "Train_RMSE": 1.2354633342263752,
+    "Train_MAE": 0.9275933532224238,
+    "Train_R2": 0.992385752641412,
+    "Train_MAPE": 53.763807237217144,
+    "Train_Directional_Accuracy": 49.94897959183673,
+    "Validation_MSE": 114.52784534608863,
+    "Validation_RMSE": 10.701768327995548,
+    "Validation_MAE": 7.1204317365373875,
+    "Validation_R2": 0.9615452943568704,
+    "Validation_MAPE": 4.148020501964223,
+    "Validation_Directional_Accuracy": 52.80898876404494,
+    "Test_MSE": 4639.85336740024,
+    "Test_RMSE": 68.1164691348593,
+    "Test_MAE": 60.22508788813631,
+    "Test_R2": 0.03281599918773048,
+    "Test_MAPE": 16.853897735282125,
+    "Test_Directional_Accuracy": 49.59183673469388
+}

@@ -1,0 +1,10 @@
+{
+    "window_size": 60,
+    "target": "Close",
+    "train_split": 0.8,
+    "val_split": 0.1,
+    "batch_size": 32,
+    "epochs": 100,
+    "early_stopping_patience": 15,
+    "learning_rate": 0.001
+}
